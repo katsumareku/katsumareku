@@ -1,5 +1,5 @@
 ## Hi, I'm @katsumareku 👋
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jack-kaczmarek/)
+📫 How to reach me: https://www.linkedin.com/in/jack-kaczmarek/
 
 <!--
 **katsumareku/katsumareku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
